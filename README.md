@@ -1,6 +1,7 @@
-# Uploading temperature sensor data in Thing Speak cloud
 ### NAME: V PATRICK ALEX EMMANUEL
 ### REG NO: 24900019
+# Uploading temperature sensor data in Thing Speak cloud
+
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
